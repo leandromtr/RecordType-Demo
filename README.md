@@ -7,6 +7,6 @@
 <b>Project Type:</b> ConsoleApp
 </li>
 <li>
-<b>Reference:</b> Intro to Records in C# 9 - How To Use Records And When To Use Them (shorturl.at/oqtNR)
+<b>Reference:</b> <a href="shorturl.at/oqtNR">Intro to Records in C# 9 - How To Use Records And When To Use Them</a>  
 </li>
 </ul>
